@@ -1,0 +1,86 @@
+# depslib dependency file v1.0
+1560362186 source:d:\gui_turnuriledinhanoi\main.cpp
+	<tchar.h>
+	<windows.h>
+	<windowsx.h>
+	<iostream>
+	<stdio.h>
+	"GUI_TurnurileDinHanoi.hpp"
+
+1560361882 d:\gui_turnuriledinhanoi\gui_turnuriledinhanoi.hpp
+
+1560350701 source:d:\arhiva\gui_turnuriledinhanoi\main.cpp
+	<tchar.h>
+	<windows.h>
+	<windowsx.h>
+	<iostream>
+	<stdio.h>
+	"GUI_TurnurileDinHanoi.hpp"
+
+1560350884 d:\arhiva\gui_turnuriledinhanoi\gui_turnuriledinhanoi.hpp
+
+1560434577 source:d:\programe\gui_turnuriledinhanoi_1\main.cpp
+	<tchar.h>
+	<windows.h>
+	<windowsx.h>
+	<iostream>
+	<stdio.h>
+	"GUI_TurnurileDinHanoi.hpp"
+
+1560434644 d:\programe\gui_turnuriledinhanoi_1\gui_turnuriledinhanoi.hpp
+
+1560935836 source:d:\programe\gui_turnuriledinhanoi_2\main.cpp
+	<tchar.h>
+	<windows.h>
+	<windowsx.h>
+	<iostream>
+	<stdio.h>
+	<vector>
+	"GUI_TurnurileDinHanoi.hpp"
+
+1560507002 d:\programe\gui_turnuriledinhanoi_2\gui_turnuriledinhanoi.hpp
+
+1561550242 source:d:\programe\gui_turnuriledinhanoi_3\main.cpp
+	<tchar.h>
+	<windows.h>
+	<windowsx.h>
+	<iostream>
+	<stdio.h>
+	<vector>
+	"GUI_TurnurileDinHanoi.hpp"
+
+1561550315 d:\programe\gui_turnuriledinhanoi_3\gui_turnuriledinhanoi.hpp
+
+1562053876 source:d:\programe\gui_turnuriledinhanoi_4\main.cpp
+	<tchar.h>
+	<windows.h>
+	<windowsx.h>
+	<iostream>
+	<stdio.h>
+	<vector>
+	"GUI_TurnurileDinHanoi.hpp"
+
+1562053985 d:\programe\gui_turnuriledinhanoi_4\gui_turnuriledinhanoi.hpp
+
+1562066072 source:d:\programe\gui_turnuriledinhanoi_5\main.cpp
+	<tchar.h>
+	<windows.h>
+	<windowsx.h>
+	<iostream>
+	<stdio.h>
+	<vector>
+	"GUI_TurnurileDinHanoi.hpp"
+
+1562053985 d:\programe\gui_turnuriledinhanoi_5\gui_turnuriledinhanoi.hpp
+
+1564135915 source:d:\programe\gui_turnuriledinhanoi_6\main.cpp
+	<tchar.h>
+	<windows.h>
+	<windowsx.h>
+	<iostream>
+	<stdio.h>
+	<vector>
+	"GUI_TurnurileDinHanoi.hpp"
+
+1562053985 d:\programe\gui_turnuriledinhanoi_6\gui_turnuriledinhanoi.hpp
+
