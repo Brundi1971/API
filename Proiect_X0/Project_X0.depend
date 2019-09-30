@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1569582577 source:d:\programe\project_x0\main.cpp
+	"Project_X0.hpp"
+	<tchar.h>
+	<windows.h>
+	<windowsx.h>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<math.h>
+
+1569508546 d:\programe\project_x0\project_x0.hpp
+
+1569750893 source:d:\project_x0\main.cpp
+	"Project_X0.hpp"
+	<tchar.h>
+	<windows.h>
+	<windowsx.h>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<math.h>
+	<thread>
+
+1569661283 d:\project_x0\project_x0.hpp
+
+1569829380 source:d:\programe\project_x0_rev0\main.cpp
+	"Project_X0.hpp"
+	<tchar.h>
+	<windows.h>
+	<windowsx.h>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<math.h>
+	<thread>
+	<sstream>
+
+1569661284 d:\programe\project_x0_rev0\project_x0.hpp
+
