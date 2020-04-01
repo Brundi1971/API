@@ -1,0 +1,518 @@
+# depslib dependency file v1.0
+1583088164 source:d:\folder de lucru_1\programe c++\shapes\main.cpp
+	<tchar.h>
+	<windows.h>
+	"Shapes.hpp"
+
+1583088337 d:\folder de lucru_1\programe c++\shapes\shapes.hpp
+	<vector>
+	<stdio.h>
+	<string>
+	<iostream>
+	<iostream>
+	<sstream>
+	<fstream>
+	<iterator>
+
+1583155641 source:d:\programe\shapes\main.cpp
+	<tchar.h>
+	<windows.h>
+	"Shapes.hpp"
+
+1583155749 d:\programe\shapes\shapes.hpp
+	<vector>
+	<stdio.h>
+	<string>
+	<iostream>
+	<iostream>
+	<sstream>
+	<fstream>
+	<iterator>
+
+1583155641 source:d:\programe\shapes1\main.cpp
+	<tchar.h>
+	<windows.h>
+	"Shapes.hpp"
+
+1583157395 d:\programe\shapes1\shapes.hpp
+	<vector>
+	<stdio.h>
+	<string>
+	<iostream>
+	<iostream>
+	<sstream>
+	<fstream>
+	<iterator>
+
+1583172286 source:d:\folder de lucru_1\programe c++\shapes1\main.cpp
+	<tchar.h>
+	<windows.h>
+	"Shapes.hpp"
+
+1583172581 d:\folder de lucru_1\programe c++\shapes1\shapes.hpp
+	<vector>
+	<stdio.h>
+	<string>
+	<iostream>
+	<iostream>
+	<sstream>
+	<fstream>
+	<iterator>
+
+1583172286 source:d:\folder de lucru_1\programe c++\shapes2\main.cpp
+	<tchar.h>
+	<windows.h>
+	"Shapes.hpp"
+
+1583172581 d:\folder de lucru_1\programe c++\shapes2\shapes.hpp
+	<vector>
+	<stdio.h>
+	<string>
+	<iostream>
+	<iostream>
+	<sstream>
+	<fstream>
+	<iterator>
+
+1583242850 source:d:\programe\shapes3\main.cpp
+	<tchar.h>
+	<windows.h>
+	"Shapes.hpp"
+
+1583242823 d:\programe\shapes3\shapes.hpp
+	<vector>
+	<stdio.h>
+	<string>
+	<iostream>
+	<iostream>
+	<sstream>
+	<fstream>
+	<iterator>
+	<math.h>
+
+1583490050 source:d:\programe\shapes4\main.cpp
+	<tchar.h>
+	<windows.h>
+	"Shapes.hpp"
+
+1583491809 d:\programe\shapes4\shapes.hpp
+	<vector>
+	<stdio.h>
+	<string>
+	<iostream>
+	<iostream>
+	<sstream>
+	<fstream>
+	<iterator>
+	<math.h>
+
+1583760119 source:d:\programe\shapes5\main.cpp
+	<tchar.h>
+	<windows.h>
+	"Shapes.hpp"
+
+1583762268 d:\programe\shapes5\shapes.hpp
+	<vector>
+	<stdio.h>
+	<string>
+	<iostream>
+	<iostream>
+	<sstream>
+	<fstream>
+	<iterator>
+	<math.h>
+
+1583845069 source:d:\programe\shapes6\main.cpp
+	<tchar.h>
+	<windows.h>
+	"Shapes.hpp"
+
+1583844707 d:\programe\shapes6\shapes.hpp
+	<vector>
+	<stdio.h>
+	<string>
+	<iostream>
+	<iostream>
+	<sstream>
+	<fstream>
+	<iterator>
+	<math.h>
+
+1583932293 source:d:\programe\shapes7\main.cpp
+	<tchar.h>
+	<windows.h>
+	"Shapes.hpp"
+
+1583933585 d:\programe\shapes7\shapes.hpp
+	<vector>
+	<stdio.h>
+	<string>
+	<iostream>
+	<iostream>
+	<sstream>
+	<fstream>
+	<iterator>
+	<math.h>
+
+1583953978 source:d:\shapes8\main.cpp
+	<tchar.h>
+	<windows.h>
+	"Shapes.hpp"
+
+1583956568 d:\shapes8\shapes.hpp
+	<vector>
+	<stdio.h>
+	<string>
+	<iostream>
+	<iostream>
+	<sstream>
+	<fstream>
+	<iterator>
+	<math.h>
+
+1584023794 source:d:\programe\shapes9\main.cpp
+	<tchar.h>
+	<windows.h>
+	"Shapes.hpp"
+
+1584020976 d:\programe\shapes9\shapes.hpp
+	<vector>
+	<stdio.h>
+	<string>
+	<iostream>
+	<iostream>
+	<sstream>
+	<fstream>
+	<iterator>
+	<math.h>
+
+1584097413 source:d:\programe\shapes10\main.cpp
+	<tchar.h>
+	<windows.h>
+	"Shapes.hpp"
+
+1584097500 d:\programe\shapes10\shapes.hpp
+	<vector>
+	<stdio.h>
+	<string>
+	<iostream>
+	<iostream>
+	<sstream>
+	<fstream>
+	<iterator>
+	<math.h>
+
+1584300222 source:d:\folder de lucru_1\programe c++\shapes11\main.cpp
+	<tchar.h>
+	<windows.h>
+	<chrono>
+	"Shapes.hpp"
+
+1584289471 d:\folder de lucru_1\programe c++\shapes11\shapes.hpp
+	<vector>
+	<stdio.h>
+	<string>
+	<iostream>
+	<iostream>
+	<sstream>
+	<fstream>
+	<iterator>
+	<cstdlib>
+	<math.h>
+
+1585063622 source:d:\programe\minesweeper\main.cpp
+	<tchar.h>
+	<windows.h>
+	<windowsx.h>
+	<winuser.h>
+	<chrono>
+	<time.h>
+	<thread>
+	<conio.h>
+	<sys/types.h>
+	"Shapes.hpp"
+
+1585063211 d:\programe\minesweeper\shapes.hpp
+	<vector>
+	<stdio.h>
+	<string>
+	<iostream>
+	<iostream>
+	<sstream>
+	<fstream>
+	<iterator>
+	<cstdlib>
+	<math.h>
+
+1584453311 source:d:\programe\minesweeper_01\main.cpp
+	<tchar.h>
+	<windows.h>
+	<windowsx.h>
+	<chrono>
+	"Shapes.hpp"
+
+1584452782 d:\programe\minesweeper_01\shapes.hpp
+	<vector>
+	<stdio.h>
+	<string>
+	<iostream>
+	<iostream>
+	<sstream>
+	<fstream>
+	<iterator>
+	<cstdlib>
+	<math.h>
+
+1584468350 source:d:\folder de lucru_1\programe c++\minesweeper_02\main.cpp
+	<tchar.h>
+	<windows.h>
+	<windowsx.h>
+	<chrono>
+	"Shapes.hpp"
+
+1584463596 d:\folder de lucru_1\programe c++\minesweeper_02\shapes.hpp
+	<vector>
+	<stdio.h>
+	<string>
+	<iostream>
+	<iostream>
+	<sstream>
+	<fstream>
+	<iterator>
+	<cstdlib>
+	<math.h>
+
+1584475962 source:d:\folder de lucru_1\programe c++\minesweeper_03\main.cpp
+	<tchar.h>
+	<windows.h>
+	<windowsx.h>
+	<chrono>
+	"Shapes.hpp"
+
+1584476016 d:\folder de lucru_1\programe c++\minesweeper_03\shapes.hpp
+	<vector>
+	<stdio.h>
+	<string>
+	<iostream>
+	<iostream>
+	<sstream>
+	<fstream>
+	<iterator>
+	<cstdlib>
+	<math.h>
+
+1584523541 source:d:\programe\minesweeper_03\main.cpp
+	<tchar.h>
+	<windows.h>
+	<windowsx.h>
+	<chrono>
+	"Shapes.hpp"
+
+1584523132 d:\programe\minesweeper_03\shapes.hpp
+	<vector>
+	<stdio.h>
+	<string>
+	<iostream>
+	<iostream>
+	<sstream>
+	<fstream>
+	<iterator>
+	<cstdlib>
+	<math.h>
+
+1584559028 source:d:\folder de lucru_1\programe c++\minesweeper_04\main.cpp
+	<tchar.h>
+	<windows.h>
+	<windowsx.h>
+	<chrono>
+	"Shapes.hpp"
+
+1584558629 d:\folder de lucru_1\programe c++\minesweeper_04\shapes.hpp
+	<vector>
+	<stdio.h>
+	<string>
+	<iostream>
+	<iostream>
+	<sstream>
+	<fstream>
+	<iterator>
+	<cstdlib>
+	<math.h>
+
+1584630920 source:d:\programe\minesweeper_05\main.cpp
+	<tchar.h>
+	<windows.h>
+	<windowsx.h>
+	<chrono>
+	"Shapes.hpp"
+
+1584558630 d:\programe\minesweeper_05\shapes.hpp
+	<vector>
+	<stdio.h>
+	<string>
+	<iostream>
+	<iostream>
+	<sstream>
+	<fstream>
+	<iterator>
+	<cstdlib>
+	<math.h>
+
+1584645459 source:d:\folder de lucru_1\programe c++\minesweeper_06\main.cpp
+	<tchar.h>
+	<windows.h>
+	<windowsx.h>
+	<chrono>
+	"Shapes.hpp"
+
+1584643275 d:\folder de lucru_1\programe c++\minesweeper_06\shapes.hpp
+	<vector>
+	<stdio.h>
+	<string>
+	<iostream>
+	<iostream>
+	<sstream>
+	<fstream>
+	<iterator>
+	<cstdlib>
+	<math.h>
+
+1584709150 source:d:\programe\minesweeper_07\main.cpp
+	<tchar.h>
+	<windows.h>
+	<windowsx.h>
+	<chrono>
+	"Shapes.hpp"
+
+1584708652 d:\programe\minesweeper_07\shapes.hpp
+	<vector>
+	<stdio.h>
+	<string>
+	<iostream>
+	<iostream>
+	<sstream>
+	<fstream>
+	<iterator>
+	<cstdlib>
+	<math.h>
+
+1584906831 source:d:\folder de lucru_1\programe c++\minesweeper_07\main.cpp
+	<tchar.h>
+	<windows.h>
+	<windowsx.h>
+	<winuser.h>
+	<chrono>
+	<time.h>
+	<thread>
+	<conio.h>
+	<sys/types.h>
+	"Shapes.hpp"
+
+1584904193 d:\folder de lucru_1\programe c++\minesweeper_07\shapes.hpp
+	<vector>
+	<stdio.h>
+	<string>
+	<iostream>
+	<iostream>
+	<sstream>
+	<fstream>
+	<iterator>
+	<cstdlib>
+	<math.h>
+
+1585062035 source:d:\programe\minesweeper_08\main.cpp
+	<tchar.h>
+	<windows.h>
+	<windowsx.h>
+	<winuser.h>
+	<chrono>
+	<time.h>
+	<thread>
+	<conio.h>
+	<sys/types.h>
+	"Shapes.hpp"
+
+1585051350 d:\programe\minesweeper_08\shapes.hpp
+	<vector>
+	<stdio.h>
+	<string>
+	<iostream>
+	<iostream>
+	<sstream>
+	<fstream>
+	<iterator>
+	<cstdlib>
+	<math.h>
+
+1585125258 source:d:\folder de lucru_1\programe c++\minesweeper\main.cpp
+	<tchar.h>
+	<windows.h>
+	<windowsx.h>
+	<winuser.h>
+	<chrono>
+	<time.h>
+	<thread>
+	<conio.h>
+	<sys/types.h>
+	"Shapes.hpp"
+
+1585126126 d:\folder de lucru_1\programe c++\minesweeper\shapes.hpp
+	<vector>
+	<stdio.h>
+	<string>
+	<iostream>
+	<iostream>
+	<sstream>
+	<fstream>
+	<iterator>
+	<cstdlib>
+	<math.h>
+
+1585422211 source:d:\folder de lucru_1\programe c++\minesweeper_v01\main.cpp
+	<tchar.h>
+	<windows.h>
+	<windowsx.h>
+	<winuser.h>
+	<chrono>
+	<time.h>
+	<thread>
+	<conio.h>
+	<sys/types.h>
+	"Shapes.hpp"
+
+1585163077 d:\folder de lucru_1\programe c++\minesweeper_v01\shapes.hpp
+	<vector>
+	<stdio.h>
+	<string>
+	<iostream>
+	<iostream>
+	<sstream>
+	<fstream>
+	<iterator>
+	<cstdlib>
+	<math.h>
+
+1585422212 source:d:\programe\minesweeper_v03\main.cpp
+	<tchar.h>
+	<windows.h>
+	<windowsx.h>
+	<winuser.h>
+	<chrono>
+	<time.h>
+	<thread>
+	<conio.h>
+	<sys/types.h>
+	"Shapes.hpp"
+
+1585163078 d:\programe\minesweeper_v03\shapes.hpp
+	<vector>
+	<stdio.h>
+	<string>
+	<iostream>
+	<iostream>
+	<sstream>
+	<fstream>
+	<iterator>
+	<cstdlib>
+	<math.h>
+
